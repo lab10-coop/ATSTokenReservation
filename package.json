@@ -1,0 +1,23 @@
+{
+  "name": "ATSTokenReservation",
+  "version": "1.0.0",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "bignumber.js": "^7.0.1",
+    "chai-bignumber": "^2.0.2",
+    "should": "^13.2.1",
+    "solc": "^0.4.24",
+    "truffle-hdwallet-provider": "0.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "truffle test"
+  },
+  "engines": {
+    "node": ">=v8.4.0"
+  },
+  "author": "dho@lab10.coop",
+  "license": "ISC"
+}
